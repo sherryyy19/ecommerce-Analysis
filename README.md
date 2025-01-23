@@ -1,5 +1,9 @@
-E-commerce Store Sales Analysis Project, performing EDA to sample store dataset and analyze:
-Monthly Sales Trends, Product Category Performance, Customer Segmentation and Profitability Analysis.
+**E-commerce Store Sales Analysis Project:**
+I utilized the EDA(Exploratory Data Analysis) techniques to sample store datasets and analyze:
+- Monthly Sales Trends
+- Product Category Performance
+- Customer Segmentation
+- Profitability Analysis.
 
-Tools used:
+**Tools used:**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
